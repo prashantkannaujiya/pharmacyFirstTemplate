@@ -1,0 +1,22 @@
+
+
+#cardProduct{
+    width:30%;
+    margin: 1%;
+    
+    padding: 0;
+}
+#carousel{
+    position: relative;
+    right:20px;
+}
+#cardProduct:hover{
+transform: scale(1.01);
+transition: 0.3s;
+box-shadow: 0 0 3px rgb(147, 187, 147);
+}
+.cc{
+    position: relative;
+    bottom: 13vh;
+}
+

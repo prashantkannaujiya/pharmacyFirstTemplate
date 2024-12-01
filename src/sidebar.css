@@ -1,0 +1,25 @@
+.sidebar{
+   
+    position: relative;
+    left:0.4%;
+    margin-left: 1%;
+}
+.category-menu>p{
+background-color:  #13be13;
+border-bottom:0.3px solid whitesmoke  ;
+padding:5px;
+width:200px;
+margin:0;
+
+}
+#freeShipBox{
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20231008/pngtree-vibrant-green-backdrop-with-a-pharmacy-themed-image-of-a-white-image_13590228.png);
+    background-position: center;
+height:30vh;
+border-radius:1px;
+width: 200px;
+}
+.sidebar-menu{
+    text-decoration: none;
+    color:aliceblue;
+}
